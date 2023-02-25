@@ -1,70 +1,41 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo](https://firebasestorage.googleapis.com/v0/b/database-b8ba9.appspot.com/o/Frame%2049.svg?alt=media&token=3ebd5d44-1a84-48df-852d-f34fa56f03cb)
 
-## Available Scripts
+## Open Source project by Rejwan Ahamed
 
-In the project directory, you can run:
 
-### `npm start`
+I want to share with you a story about a personal project that is near and dear to my heart. It's a project that started with a simple idea, but has grown to become something that I truly believe will make a difference in the lives of students.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+As a student myself, I know firsthand the challenges that come with managing classes, assignments, and extracurricular activities. That's why I set out to create something that would make students' lives easier and more manageable.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I poured my heart and soul into this project, determined to create something that would truly make a difference. I talked to students, teachers, and advisors to get a better understanding of what students need to be successful.
 
-### `npm test`
+Through countless hours of research and development, I created a tool that simplifies the way students manage their schedules, assignments, and deadlines. It's a user-friendly platform that helps students stay on top of their work and achieve their goals.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+But what truly sets this project apart is the emotion behind it. I know firsthand the stress and anxiety that can come with managing a full course load, and I wanted to create something that would ease that burden for other students.
 
-### `npm run build`
+I poured my heart into this project because I believe in the power of education and the impact it can have on people's lives. I know that by making it easier for students to manage their work, I'm giving them the tools they need to succeed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+So, my friend, I invite you to join me in celebrating the behind-the-scenes story of this personal project. Come see the passion, creativity, and heart that went into making it a reality. It's a story that will touch your soul and remind you of the power we all have to make a difference.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Running Tests
 
-### `npm run eject`
+To run tests, run the following command
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  npm run test
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Client:** React, TailwindCSS, Flowbite, Headless UI, GSAP, PWA, Hero Icons, Font Share.
 
-## Learn More
+**Server:** Node, Express, SQL, OPT verification, MySQLi
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Support
 
-### Code Splitting
+For support, email rejwanahamed85@gmail.com or check out www.rejwanahamed.xyz
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
